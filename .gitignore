@@ -1,0 +1,4 @@
+*.pyc
+opencv
+*.DS_Store
+*.python-version
